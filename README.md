@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Along802
 - 👀 I’m interested in Java and spring boot and mybatis
 - 🌱 I’m currently learning JavaEE
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me yuanlong@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: In the long march of seeking truth, only by learning, learning continuously, learning diligently, and learning creatively can we cross mountains and ridges.
 - ⚡ Fun fact: ...
 
 <!---
